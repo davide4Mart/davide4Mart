@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    const double usdPerEur {1.13};
+
+    double eur {0.0};
+    cout << "Insert EUR ";
+    cin >> eur;
+
+    double usd {eur * usdPerEur};
+
+    cout << "USD equivalent " << usd << endl;
+
+    return 0;
+}
