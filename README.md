@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Davide Benetti
 - 👀 I’m interested in software developing
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to change job and work as a developer
 - 📫 How to reach me davide.benetti18@gmail.com
 
